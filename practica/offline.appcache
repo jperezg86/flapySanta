@@ -1,8 +1,8 @@
 ﻿CACHE MANIFEST
-#1414923591
-index.html
+#1449777710
+data.js
 c2runtime.js
-jquery-2.0.0.min.js
+jquery-2.1.1.min.js
 images/bg_geral-sheet0.png
 images/sleigh_reindeer-sheet0.png
 images/wall_create-sheet0.png
@@ -15,7 +15,6 @@ images/cat_blow-sheet0.png
 images/airship-sheet0.png
 images/airship_rope-sheet0.png
 images/tutorial-sheet0.png
-images/tutorial-sheet1.png
 images/info_txt_record-sheet0.png
 images/cat_cam-sheet0.png
 images/effect_up-sheet0.png
@@ -33,6 +32,7 @@ images/bt_sound-sheet0.png
 images/sleigh_cat-sheet0.png
 images/sleigh_chain-sheet0.png
 images/cat_position-sheet0.png
+images/sprite-sheet0.png
 media/bubble.m4a
 media/bubble.ogg
 media/miau_death.m4a
