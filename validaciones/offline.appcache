@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1449777584
+#1450125671
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -33,6 +33,7 @@ images/sleigh_cat-sheet0.png
 images/sleigh_chain-sheet0.png
 images/cat_position-sheet0.png
 images/sprite-sheet0.png
+images/sprite4-sheet0.png
 media/bubble.m4a
 media/bubble.ogg
 media/miau_death.m4a
